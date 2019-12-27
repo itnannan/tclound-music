@@ -1,6 +1,11 @@
+/*
+ * @Author: 唐培楠
+ * @Date: 2019-12-25 17:04:49
+ * @LastEditors: 唐培楠
+ * @LastEditTime: 2019-12-25 17:14:28
+ */
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
